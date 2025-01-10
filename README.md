@@ -29,10 +29,17 @@ IdentitiesOnly yes
 AddKeysToAgent yes
 ```
 
+## ,gitconfig
+
+Useful shortcuts
+```
+TODO
+```
+
 ## Project setup 
 [cloning a git repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 ```
-git clone git@github.com:rusty-objects/gourmand.git
+git clone git@github.com:rusty-objects/XXX.git
 ```
 
 ## VS Code setup
@@ -48,4 +55,7 @@ defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false
 # holding down does NOT repeat
 defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool true
 ```
+
+* General
+    * https://code.visualstudio.com/docs/editor/multi-root-workspaces
 
